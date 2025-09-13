@@ -14,17 +14,6 @@ This project is a frontend application for Crossfit, utilizing React, Redux, Van
      
      Preparation for a shop where fitness goods can be purchased
 
-**Key Statistics**
-
-    Total Users: 600+
-
-    Gym and diet plan created : 2000+
-   
-    Social Media Community: Active and growing
-
-**Contact Information**
-For any queries or suggestions, feel free to reach out via email: buddhgautam777@gmail.com
-
 **Running the Application**
 To run the application, follow these steps:
 
